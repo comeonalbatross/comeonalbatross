@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @comeonalbatross, can be called albatross for short.
+- 👋 Hi, I’m @comeonalbatross.
 - 👀 I’m interested in creating basic .exe programs and Mobile Development.
 - 🌱 I’m currently learning Java-Kotlin.
 
